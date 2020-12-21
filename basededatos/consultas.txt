@@ -1,0 +1,23 @@
+*esta consulta me muestra el id el nombre y la calificaicon del un alumno
+por su ci
+
+select C.ID_MATERIA,M.Nombre,N.Calificacion
+from nota N,clase C,materia M,alumno Al
+where 7082735=Al.CI
+and Al.ID_ALUMNO=N.ID_ALUMNO
+and C.ID_CLASE=N.ID_CLASE
+and C.ID_MATERIA=M.ID_MATERIA
+
+*me muestra los alumnos con su respectivo CI
+select ID_ALUMNO,Nombre,ApellidoP,ApellidoM
+from alumno
+where 6786786=CI
+
+*imprimo las materias
+Select * from materia
+
+*inserto una materia en la tabla materia
+INSERT INTO materia(ID_MATERIA,Nombre) VALUES ('"+sigla+"','"+nombre+"')
+
+*remplazo un valor de un estudiante con un ci repetido
+UPDATE alumno\n" +"SET ci="+ci+"\n" + "WHERE id_alumno='"+idalumno+"'
