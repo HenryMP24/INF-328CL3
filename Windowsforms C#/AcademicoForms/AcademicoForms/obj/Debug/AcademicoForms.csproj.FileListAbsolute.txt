@@ -1,0 +1,9 @@
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\bin\Debug\AcademicoForms.exe.config
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\bin\Debug\AcademicoForms.exe
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\bin\Debug\AcademicoForms.pdb
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.Form1.resources
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.Properties.Resources.resources
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.exe
+C:\Users\Henry\Desktop\AcademicoForms\AcademicoForms\obj\Debug\AcademicoForms.pdb

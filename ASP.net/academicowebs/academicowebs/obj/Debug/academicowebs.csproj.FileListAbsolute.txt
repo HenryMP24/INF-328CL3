@@ -1,0 +1,6 @@
+C:\Users\Henry\Desktop\academicowebs\academicowebs\bin\academicowebs.dll.config
+C:\Users\Henry\Desktop\academicowebs\academicowebs\bin\academicowebs.dll
+C:\Users\Henry\Desktop\academicowebs\academicowebs\bin\academicowebs.pdb
+C:\Users\Henry\Desktop\academicowebs\academicowebs\obj\Debug\academicowebs.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\academicowebs\academicowebs\obj\Debug\academicowebs.dll
+C:\Users\Henry\Desktop\academicowebs\academicowebs\obj\Debug\academicowebs.pdb
